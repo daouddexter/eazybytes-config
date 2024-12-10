@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related QA APIs bora ki handu"
   contactDetails:
     name: "Daoud Pankaj - QA Lead"
     email: "daoudpankaj@eazybank.com"
